@@ -1,4 +1,6 @@
-```bash
+<!-- ### Hi there 👋 -->
+
+```
 $ echo bm9wZWRhd24= | base64 -d
 ```
 
