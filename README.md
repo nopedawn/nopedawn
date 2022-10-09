@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```bash
 $ echo bm9wZWRhd24= | base64 -d
 ```
