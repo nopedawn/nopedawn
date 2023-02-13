@@ -4,7 +4,7 @@
 $ echo 'bm9wZWRhd24=' | base64 -d
 ```
 
-<img src="https://i.postimg.cc/VvXqxyxW/terminal-typing.gif">
+<img src="https://i.postimg.cc/FKDkJF46/terminal.gif">
 
 <!--
 **nopedawn/nopedawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
