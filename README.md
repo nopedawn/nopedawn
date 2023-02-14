@@ -1,10 +1,10 @@
 <!-- ### Hi there 👋 -->
 
+<img src="https://i.postimg.cc/FKDkJF46/terminal.gif" width="100%">
+
 ```bash
 $ echo 'bm9wZWRhd24=' | base64 -d
 ```
-
-<img src="https://i.postimg.cc/FKDkJF46/terminal.gif" width="100%">
 
 <!--
 **nopedawn/nopedawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
