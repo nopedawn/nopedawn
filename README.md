@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<img src="https://i.postimg.cc/FKDkJF46/terminal.gif" width="100%">
+<!-- <img src="https://i.postimg.cc/FKDkJF46/terminal.gif" width="100%"> -->
 
 ```bash
 $ echo 'bm9wZWRhd24=' | base64 -d
