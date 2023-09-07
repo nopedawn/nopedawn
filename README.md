@@ -3,7 +3,7 @@
 <!-- <img src="https://i.postimg.cc/FKDkJF46/terminal.gif" width="100%"> -->
 
 ```bash
-$ echo 'bm9wZWRhd24=' | base64 -d
+$ echo 'bm9wZWRhd24K' | base64 -d
 ```
 
 <!--
